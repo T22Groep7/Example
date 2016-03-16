@@ -17,8 +17,8 @@ namespace example_One
         {
 
             Bas = 100;
-            John = 96;
-            Kevin = 3;
+            John = 69;
+            Kevin = 99;
             Niels = 1;
             Robert = 1;
             Sanders = 1;
