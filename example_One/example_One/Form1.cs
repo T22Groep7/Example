@@ -15,7 +15,7 @@ namespace example_One
         int Bas, John, Kevin, Niels, Robert, Sanders;
         public Form1()
         {
-            Bas = 1;
+            Bas = 100;
             John = 1;
             Kevin = 3;
             Niels = 1;
